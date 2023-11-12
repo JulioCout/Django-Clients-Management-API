@@ -2,6 +2,7 @@ asgiref
 astroid
 Django
 djangorestframework
+django-filter
 isort
 lazy-object-proxy
 mccabe
@@ -12,3 +13,4 @@ sqlparse
 toml
 typed-ast
 wrapt
+validate-docbr
